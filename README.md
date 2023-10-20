@@ -10,11 +10,9 @@ Remy Duivesteijn</a> | <a href="https://github.com/Jaywesterlow">Jaymar Westerlo
 
 ### Onze site
 
-[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://remyduivesteijn.nl/projects/xenterion/index.html)
+[![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://jvvue.nl/ecosy/)
 [![Trello](https://img.shields.io/badge/-trello-2e343f?logo=Trello&logoColor=white&style=for-the-badge)](https://trello.com/b/10PdD5Wt/team-ez-10-v2)
 
 ---
 
 ##### Last edited on: 27/3/2021
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=xenterion.xenterion)
