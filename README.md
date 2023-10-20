@@ -8,11 +8,10 @@ Remy Duivesteijn</a> | <a href="https://github.com/Jaywesterlow">Jaymar Westerlo
     <a href="https://github.com/Remy2072/Xenterion/issues"><img src="https://img.shields.io/badge/contributions-welcome-ff69b4.svg" alt="Contributions Welcome"></a>
 </p>
 
-### Onze site
+### Live versie
 
 [![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://jvvue.nl/ecosy/)
-[![Trello](https://img.shields.io/badge/-trello-2e343f?logo=Trello&logoColor=white&style=for-the-badge)](https://trello.com/b/10PdD5Wt/team-ez-10-v2)
 
 ---
 
-##### Last edited on: 27/3/2021
+##### Last edited on: 19/4/2021
